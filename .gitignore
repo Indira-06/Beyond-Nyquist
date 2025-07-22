@@ -1,0 +1,15 @@
+# Windows & Office temporary files
+Thumbs.db
+ehthumbs.db
+~$*
+
+# PowerPoint autosaves & temp files
+*.tmp
+*.bak
+*.pptx~
+
+# macOS
+.DS_Store
+
+# VSCode (if you open the folder there)
+.vscode/
